@@ -1,0 +1,14 @@
+C:\Users\john3\OneDrive\文件\Workspace\DotNetConsole\NamesRefactor\NamesRefactor\bin\Debug\net7.0\NamesRefactor.exe
+C:\Users\john3\OneDrive\文件\Workspace\DotNetConsole\NamesRefactor\NamesRefactor\bin\Debug\net7.0\NamesRefactor.deps.json
+C:\Users\john3\OneDrive\文件\Workspace\DotNetConsole\NamesRefactor\NamesRefactor\bin\Debug\net7.0\NamesRefactor.runtimeconfig.json
+C:\Users\john3\OneDrive\文件\Workspace\DotNetConsole\NamesRefactor\NamesRefactor\bin\Debug\net7.0\NamesRefactor.dll
+C:\Users\john3\OneDrive\文件\Workspace\DotNetConsole\NamesRefactor\NamesRefactor\bin\Debug\net7.0\NamesRefactor.pdb
+C:\Users\john3\OneDrive\文件\Workspace\DotNetConsole\NamesRefactor\NamesRefactor\obj\Debug\net7.0\NamesRefactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\john3\OneDrive\文件\Workspace\DotNetConsole\NamesRefactor\NamesRefactor\obj\Debug\net7.0\NamesRefactor.AssemblyInfoInputs.cache
+C:\Users\john3\OneDrive\文件\Workspace\DotNetConsole\NamesRefactor\NamesRefactor\obj\Debug\net7.0\NamesRefactor.AssemblyInfo.cs
+C:\Users\john3\OneDrive\文件\Workspace\DotNetConsole\NamesRefactor\NamesRefactor\obj\Debug\net7.0\NamesRefactor.csproj.CoreCompileInputs.cache
+C:\Users\john3\OneDrive\文件\Workspace\DotNetConsole\NamesRefactor\NamesRefactor\obj\Debug\net7.0\NamesRefactor.dll
+C:\Users\john3\OneDrive\文件\Workspace\DotNetConsole\NamesRefactor\NamesRefactor\obj\Debug\net7.0\refint\NamesRefactor.dll
+C:\Users\john3\OneDrive\文件\Workspace\DotNetConsole\NamesRefactor\NamesRefactor\obj\Debug\net7.0\NamesRefactor.pdb
+C:\Users\john3\OneDrive\文件\Workspace\DotNetConsole\NamesRefactor\NamesRefactor\obj\Debug\net7.0\NamesRefactor.genruntimeconfig.cache
+C:\Users\john3\OneDrive\文件\Workspace\DotNetConsole\NamesRefactor\NamesRefactor\obj\Debug\net7.0\ref\NamesRefactor.dll
